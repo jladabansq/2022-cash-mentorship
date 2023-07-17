@@ -8,7 +8,7 @@ I was matched with my mentor Brett Markowitz: [@bmarkowitz](https://my.sqprod.co
  
 **Mentorship Goal**
 
-My ultimate goal of this mentorship was to explore the frontend web development throughout the next two quarters. As for my mentor Brett, he aimed to improve his mentorship skills.
+My ultimate goal for this mentorship was to explore the frontend web development throughout the next two quarters. As for my mentor Brett, he aimed to improve his mentorship skills.
 
  <br/>
 
@@ -21,3 +21,9 @@ I decided to learn frontend web development through this LinkedIn learning path:
 **Conclusion**
 
 I finished taking all of the courses in the learning path, and earned the certificate for it. The end result of the site I built from scratch can be viewed here: [Jane's Portfolio](https://jladabansq.github.io/2022-cash-mentorship/)
+
+ <br/>
+ 
+**Disclaimer**
+
+During the mentorship cycle, I mainly worked on my local machine and did not utilize this repository. After the cycle ended was the only time I pushed up my work here, so the timestamp on the files does not reflect the actual time I worked on them. 
